@@ -13,5 +13,5 @@ dconf dump /org/gnome/desktop/wm/keybindings/ > dump_4
 **Exportar todas as Configs**
 
 ```
-dconf dump / > ~/.config/dconf/user.conf
+dconf dump / > user.conf
 ```
