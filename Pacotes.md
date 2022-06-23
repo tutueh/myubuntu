@@ -3,7 +3,9 @@
 Esses são os pacotes que utilizo
 
 **Outlook/Prospect Mail**
+
 ```apt install snapd```
+
 ```snap install prospect-mail```
 
 **GIT**
