@@ -1,0 +1,22 @@
+[/]
+area-screenshot=@as []
+area-screenshot-clip=@as []
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']
+home=['<Super>e']
+logout=@as []
+magnifier=@as []
+magnifier-zoom-out=@as []
+on-screen-keyboard=@as []
+screencast=@as []
+screenreader=@as []
+screenshot=@as []
+screenshot-clip=@as []
+terminal=['<Super>t']
+toggle-contrast=@as []
+window-screenshot=@as []
+window-screenshot-clip=@as []
+
+[custom-keybindings/custom0]
+binding='Print'
+command='/usr/bin/flameshot gui'
+name='Flameshot'

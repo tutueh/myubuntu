@@ -1,0 +1,4 @@
+[/]
+binding='Print'
+command='/usr/bin/flameshot gui'
+name='Flameshot'
