@@ -17,13 +17,15 @@ Esses são os pacotes que utilizo
 **nodejs**
 
 ```apt install nodejs```
+
 ```apt install npm```
+
+npm = Node Package Manager, open source library of Node.js packages
 
 **python3**
 
 ```apt install python3```
-
-npm = Node Package Manager, open source library of Node.js packages
+```apt install python3-pip```
 
 **Ferramenta de Printscreen**
 
