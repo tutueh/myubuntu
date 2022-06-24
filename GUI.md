@@ -1,8 +1,5 @@
 # GUI / Personalização da interface gráfica
 
-Key ID: 9664d571-1876-4d82-98f6-4a067194c04d
-/Key Secret: lbfFFf8w-wvKmHWr8Xu-gnfCfMe2Rc4JwUbLqkAGhCw
-
 Essas são as minhas personalizações da interface gráfica
 
 ### Adicionar algum tema no Ubuntu
